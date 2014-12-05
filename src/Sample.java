@@ -7,6 +7,7 @@ public class Sample {
 		System.out.println("Same line ");
 		System.out.println("one more line for conflict");
 		System.out.println("second line for conflict");
+		System.out.println("third line for cl");
 	}
 
 }
