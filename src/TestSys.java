@@ -6,8 +6,8 @@ public class TestSys {
 		System.out.println("EDITTED FROM GITHUB");
 		System.out.println("EDITTED FROM VEERU");
 		System.out.println("Next Change");
-		System.out.println("RAMA 111");
-		System.out.println("11111111");
+		System.out.println("RAMA");
+		System.out.println("AFTER INVITING Navin");
 	}
 
 }
