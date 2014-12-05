@@ -8,6 +8,7 @@ public class Sample {
 		System.out.println("one more line for conflict");
 		System.out.println("second line for conflict");
 		System.out.println("third line for cl");
+		System.out.println("from my machine");
 	}
 
 }
